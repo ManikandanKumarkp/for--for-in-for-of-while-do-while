@@ -19,11 +19,9 @@ appDiv.innerHTML = `<h1>JS Starter</h1>`;
 
 
 // for of
-let num=[10,20,30,40]
-for(let no of num){
-if(num == 30){
-  break;
-}
+let num =[10,20,30,40]
+for(let m of num){
+  console.log(num)
 }
 
 
