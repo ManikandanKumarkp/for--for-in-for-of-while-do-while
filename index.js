@@ -42,4 +42,13 @@ appDiv.innerHTML = `<h1>JS Starter</h1>`;
 //   i++;
 // }
 
+//do while
+let v
+do{
+  console.log(v)
+v++;
+}
+while (v < 10) 
+  
+
 
